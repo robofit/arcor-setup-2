@@ -8,5 +8,6 @@ The setup consists of:
   * Touch surface (996 x 574 mm, made by [FORTES](http://www.fortes.cz/)).
   * [DOBOT Magician](https://www.dobot.cc/dobot-magician/product-overview.html) tabletop robot.
   * Benq GP20 projector.
+  * 2x Kinect One.
   * Standard PC.
   * WiFi router.
