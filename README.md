@@ -1,7 +1,7 @@
-# artable-setup-2
-ARTable setup in Showroom@FIT. The portable one.
+# arcor-setup-2
+ARCOR setup in Showroom@FIT. The portable one.
 
-![ARTable 2 - setup](https://i.imgur.com/peeOnEE.jpg)
+![ARCOR 2 - setup](https://i.imgur.com/peeOnEE.jpg)
 
 The setup consists of:
   * Custom made construction (Item profiles, plastic panels, chipboard).
